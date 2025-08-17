@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=①rwerqer&show_icons=true&theme=②buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwerqer&show_icons=true&theme=②buefy)
 
 <!--
 **rwerqer/rwerqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
