@@ -30,10 +30,10 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwerqer&show_icons=true&theme=②buefy)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tomong02)](https://solved.ac/tomong02)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwerqer&show_icons=true&theme=buefy" alt="GitHub stats" />
+  <a href="https://solved.ac/tomong02"><img src="http://mazassumnida.wtf/api/generate_badge?boj=tomong02" alt="Solved.ac Profile" /></a>
+</div>
 <!--
 **rwerqer/rwerqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
