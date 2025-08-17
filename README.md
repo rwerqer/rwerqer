@@ -40,8 +40,7 @@
 <img src="https://img.shields.io/badge/premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/tomong02)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tomong02)](https://solved.ac/tomong02)
 
 <!--
 **rwerqer/rwerqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
