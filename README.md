@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 
-<div>
+<div classname="mx-auto">
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/unity-EEEEEE?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"><br>
-<img src="https://img.shields.io/badge/C-Sharp-1572B6?style=for-the-badge&logo=C-Sharp&logoColor=white">
     </div>
   <div>
 <img src="https://img.shields.io/badge/C-Sharp-1572B6?style=for-the-badge&logo=C-Sharp&logoColor=white">
