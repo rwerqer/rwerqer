@@ -5,10 +5,12 @@
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/unity-EEEEEE?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/C-Sharp-1572B6?style=for-the-badge&logo=C-Sharp&logoColor=white">
+    </div>
+  <div>
+    <img src="https://img.shields.io/badge/godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"><br>
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
   </div>
   <div>
-<img src="https://img.shields.io/badge/godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"><br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
