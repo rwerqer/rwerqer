@@ -6,20 +6,12 @@
 <img src="https://img.shields.io/badge/unity-EEEEEE?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"><br>
     </div>
-  <div>
-<img src="https://img.shields.io/badge/C-Sharp-1572B6?style=for-the-badge&logo=C-Sharp&logoColor=white">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
-  </div>
-  <div>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+
 <div>
 <h3>🛠️Tools</h3>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <h3>
   
